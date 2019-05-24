@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AbbyyTest</string>
+    <string name="text_price">Цена:</string>
+    <string name="text_barcode">Штрих-код:</string>
+    <string name="text_category">Категория:</string>
+    <string name="text_sub_category">Свойство:</string>
+    <string name="text_num_page">Количество страниц:</string>
+</resources>
